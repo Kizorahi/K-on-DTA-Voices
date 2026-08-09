@@ -1,0 +1,6 @@
+SystemVoice	TYPE	FILE	NAME
+.Default\SystemStart	0		
+.Default\SystemExit	0		
+.Default\MailBeep	0		
+Explorer\EmptyRecycleBin	0		
+.Default\WindowsLogon	0		
